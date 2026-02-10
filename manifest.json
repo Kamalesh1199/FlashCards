@@ -1,0 +1,17 @@
+{
+  "name": "FlashCards",
+  "short_name": "FlashCards",
+  "description": "A clean, minimalistic flashcard web application for language learning and study purposes.",
+  "start_url": "/FlashCards/",
+  "scope": "/FlashCards/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/FlashCards/icons/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
