@@ -7,6 +7,17 @@ export const categories = [
             { key: "Thank you<br><br>நன்றி", value: "Dhanyavad<br><br>धन्यवाद" },
             { key: "Please<br><br>தயவுசெய்து", value: "Kripya<br><br>कृपया" },
             { key: "Excuse me<br><br>மன்னிக்கவும்", value: "Maaf kijiye<br><br>माफ़ कीजिए" },
+
+            { key: "I<br><br>நான்", value: "Main<br><br>मैं" },
+            { key: "You<br><br>நீங்கள்", value: "Aap<br><br>आप" },
+            { key: "He / She<br><br>அவன் / அவள்", value: "Vah<br><br>वह" },
+            { key: "This<br><br>இது", value: "Yah<br><br>यह" },
+
+            { key: "We<br><br>நாங்கள்", value: "Ham<br><br>हम" },
+            { key: "They<br><br>அவர்கள்", value: "Ve<br><br>वे" },
+            { key: "Man<br><br>ஆண்", value: "Aadmi<br><br>आदमी" },
+            { key: "Woman<br><br>பெண்", value: "Mahila<br><br>महिला" },
+            { key: "Friend<br><br>நண்பன்", value: "Mitra<br><br>मित्र" },
         ]
     },
     {
