@@ -2,22 +2,39 @@ export const categories = [
     {
         name: "Absolute Beginner 1",
         cards: [
+            // Simple Interactions
             { key: "Hello<br><br>வணக்கம்", value: "Namaste<br><br>नमस्ते" },
             { key: "Goodbye<br><br>விடைபெறுகிறேன்", value: "Alvida<br><br>अलविदा" },
             { key: "Thank you<br><br>நன்றி", value: "Dhanyavad<br><br>धन्यवाद" },
             { key: "Please<br><br>தயவுசெய்து", value: "Kripya<br><br>कृपया" },
             { key: "Excuse me<br><br>மன்னிக்கவும்", value: "Maaf kijiye<br><br>माफ़ कीजिए" },
 
+            // Personal Pronouns
             { key: "I<br><br>நான்", value: "Main<br><br>मैं" },
             { key: "You<br><br>நீங்கள்", value: "Aap<br><br>आप" },
             { key: "He / She<br><br>அவன் / அவள்", value: "Vah<br><br>वह" },
             { key: "This<br><br>இது", value: "Yah<br><br>यह" },
 
+            // Plural Pronouns And Common Nouns
             { key: "We<br><br>நாங்கள்", value: "Ham<br><br>हम" },
             { key: "They<br><br>அவர்கள்", value: "Ve<br><br>वे" },
             { key: "Man<br><br>ஆண்", value: "Aadmi<br><br>आदमी" },
             { key: "Woman<br><br>பெண்", value: "Mahila<br><br>महिला" },
             { key: "Friend<br><br>நண்பன்", value: "Mitra<br><br>मित्र" },
+
+            // My Family
+            { key: "Mother<br><br>அம்மா", value: "Maa<br><br>माँ" },
+            { key: "Father<br><br>அப்பா", value: "Pita<br><br>पिता" },
+            { key: "Sister<br><br>சகோதரி", value: "Behan<br><br>बहन" },
+            { key: "Brother<br><br>சகோதரன்", value: "Bhai<br><br>भाई" },
+            { key: "Family<br><br>குடும்பம்", value: "Parivar<br><br>परिवार" },
+
+            // Yes, no and more
+            { key: "Yes<br><br>ஆம்", value: "Haan<br><br>हाँ" },
+            { key: "No<br><br>இல்லை", value: "Nahin<br><br>नहीं" },
+            { key: "Perhaps<br><br>ஒருவேளை", value: "Shaayad<br><br>शायद" },
+            { key: "Always<br><br>எப்போதும்", value: "Hamesha<br><br>हमेशा" },
+            { key: "Never<br><br>ஒருபோதும் இல்லை", value: "Kabhee nahin<br><br>कभी नहीं" }
         ]
     },
     {
