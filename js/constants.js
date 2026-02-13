@@ -34,7 +34,21 @@ export const categories = [
             { key: "No<br><br>இல்லை", value: "Nahin<br><br>नहीं" },
             { key: "Perhaps<br><br>ஒருவேளை", value: "Shaayad<br><br>शायद" },
             { key: "Always<br><br>எப்போதும்", value: "Hamesha<br><br>हमेशा" },
-            { key: "Never<br><br>ஒருபோதும் இல்லை", value: "Kabhee nahin<br><br>कभी नहीं" }
+            { key: "Never<br><br>ஒருபோதும் இல்லை", value: "Kabhee nahin<br><br>कभी नहीं" },
+
+            // Colors
+            { key: "Red<br><br>சிவப்பு", value: "Lal<br><br>लाल" },
+            { key: "Blue<br><br>நீலம்", value: "Neela<br><br>नीला" },
+            { key: "Green<br><br>பச்சை", value: "Hara<br><br>हरा" },
+            { key: "Black<br><br>கருப்பு", value: "Kaala<br><br>काला" },
+            { key: "White<br><br>வெள்ளை", value: "Safed<br><br>सफ़ेद" },
+
+            // At School
+            { key: "School<br><br>பள்ளி", value: "Vidyaalay<br><br>विद्यालय" },
+            { key: "Book<br><br>புத்தகம்", value: "Kitaab<br><br>किताब" },
+            { key: "Pen<br><br>பேனா", value: "Kalam<br><br>कलम" },
+            { key: "Chair<br><br>நாற்காலி", value: "Kursee<br><br>कुर्सी" },
+            { key: "Table<br><br>மேசை", value: "Mez<br><br>मेज़" }
         ]
     },
     {
